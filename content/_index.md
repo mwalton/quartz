@@ -1,27 +1,18 @@
 ---
-title: 🪴 Quartz 3.3
+title: Mike Walton
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Welcome traveler! You've stumbled into my humble [[thoughts/digital-garden |garden of ideas]]!
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+> *The idea is like grass. It craves light, likes crowds, thrives on crossbreeding, grows better for being stepped on.* —Ursula K. Le Guin
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+My research strives to understand cooperation and coordination in multi-agent systems using tools from reinforcement learning and game theory.
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+I'm currently most curious about how we can improve [[thoughts/participatory-design|public participation]] in the [[thoughts/ai-alignment|alignment]] of artificial intelligence and the emerging potential of human [[thoughts/ci |collective intelligence]].
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+Lately I've been striving to be more intentional about my research strategies as our species evolves towards a [[thoughts/stewardship |stewardship]] model of technological progress. Some paths you might follow to get to know me, my research and interests:
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+- [[notes/doings|🌱 greenhouse]]: current doings, musings and evolving ideas.
+- [[notes/projects|🌲 arboretum]]: projects that I'm happy to say took root.
+- [[books/_booklist|🍃 tea garden]]: curated reading list. grab some 🍵 and enjoy!

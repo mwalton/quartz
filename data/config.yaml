@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Mike Walton
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -20,10 +20,11 @@ search:
 description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
-page_title:
-  "🪴 Quartz 3.3"
+page_title: "Mike Walton 🪴"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: Scholar
+    link: https://scholar.google.com/citations?user=TTEHCqUAAAAJ
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/mwalton
+  - link_name: Mastadon
+    link: https://dair-community.social/@mwalton
