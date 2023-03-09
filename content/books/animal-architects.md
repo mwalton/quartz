@@ -1,5 +1,5 @@
 ---
-title: "Animal Architects: Building and the Evolution of Intelligence"
+title: "Animal Architects"
 date: 2023-03-06
 tags:
 - seed

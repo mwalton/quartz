@@ -27,5 +27,12 @@
   --highlighted: #574010;
 }
 
+#banner {
+  margin: 3em 0;
+  filter: invert(0%);
+  opacity: 0.85;
 
-
+  [saved-theme="dark"] & {
+    filter: invert(100%);
+  }
+}

@@ -13,6 +13,11 @@ date: 2023-03-06
 - [[books/pluriverse|Designs for the Pluriverse]], Arturo Escobar
 - [[books/parable-of-the-sower|Parable of the Sower]], Octavia E. Butler
 
+# 🐐 GOATs
+
+Books, papers & projects that made me radically reconsider something I thought I understood fairly well
+- todo
+
 # Top of the reading pile
 - Seeing Like a State, James C. Scott
 

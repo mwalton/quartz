@@ -1,4 +1,4 @@
 ---
-title: "Emergent Strategy: Shaping Change, Changing Worlds"
+title: "Emergent Strategy"
 date: 2023-03-06
 ---

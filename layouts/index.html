@@ -1,20 +1,18 @@
 <!DOCTYPE html>
 <html lang="{{ .Lang }}">
-{{ partial "head.html" . }}
+  {{ partial "head.html" . }}
 
-<body>
-{{partial "search.html" .}}
-<div class="singlePage">
-    <!-- Begin actual content -->
-    {{partial "header.html" .}}
-    <article>
-        {{partial "toc.html" .}}
-        {{partial "textprocessing.html" . }}
-        {{if $.Site.Data.config.enableRecentNotes}}
-          {{partial "recent.html" . }}
-        {{end}}
-    </article>
-    {{partial "footerIndex.html" .}}
-</div>
-</body>
+  <body>
+    {{partial "search.html" .}}
+    <div class="singlePage">
+      <!-- Begin actual content -->
+      {{partial "header.html" .}}
+      <img id="banner" src="/thoreaus_hut.svg" />
+      <article>
+        {{partial "toc.html" .}} {{partial "textprocessing.html" . }} {{if
+        $.Site.Data.config.enableRecentNotes}} {{partial "recent.html" . }} {{end}}
+      </article>
+      {{partial "footerIndex.html" .}}
+    </div>
+  </body>
 </html>
