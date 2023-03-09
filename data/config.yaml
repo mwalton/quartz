@@ -12,15 +12,13 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/mwalton/mwalton.github.io/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
-description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
-page_title: "Mike Walton"
+description: Playfully musing on the study and stewardship of intelligent systems (natural, artificial, collective & complex)
+page_title: "M. Walton"
 links:
   - link_name: Scholar
     link: https://scholar.google.com/citations?user=TTEHCqUAAAAJ
