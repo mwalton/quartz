@@ -1,5 +1,5 @@
 ---
-title: Mike Walton
+title: M. Walton
 enableToc: false
 ---
 
