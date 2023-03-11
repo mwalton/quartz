@@ -10,7 +10,7 @@ Stewardship, however is more nuanced. Its definition varies in different context
 
 Similarly, in the virtual world, the language technologists use to describe the roles we play and the methods we use are a reflection of our values. Today, the art and science of creating software artifacts is carried out primarily under the title *[developer](https://www.youtube.com/watch?v=Vhh_GeBPOhs&ab_channel=MrWueb007)*.
 
-Contrary to common VC incentivised strategy of unfettered growth, development and disruption; what might it look like to _care_ for health of the planetary cyberphysical system our technologies shape? For all our progress, are the diverse creatures that people the internet healthy? happy? thriving?
+Contrary to commonly incentivised strategies of unfettered growth, development and disruption; what might it look like to _care_ for health of the planetary cyberphysical system our technologies shape? For all our progress, are the diverse beings that people the internet healthy? happy? thriving?
 
 Below are some thoughts on how we might evolve into better *stewards* of our shared virtual ecosystem.
 

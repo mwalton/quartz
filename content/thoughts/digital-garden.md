@@ -6,4 +6,4 @@ I was greatly inspired by Jacky Zhao's approach to [Networked Thought](https://j
 
 # Building in the open
 
-> *One who works with the door open gets all kinds of interruptions, but they also occasionally gets clues as to what the world is and what might be important.* — Richard Hamming
+> *One who works with the door open gets all kinds of interruptions, but they also occasionally get clues as to what the world is and what might be important.* — Richard Hamming

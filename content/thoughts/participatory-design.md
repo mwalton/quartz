@@ -4,4 +4,4 @@ date: 2023-03-06
 tags:
 - seed
 ---
-[[thoughts/democracy]]
+[[thoughts/democracy|democracy]]
