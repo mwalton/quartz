@@ -11,6 +11,7 @@ tags:
 # Reading List
 - [Values-based Social Design](https://textbook.sfsd.io/)
 - [To those in Humane tech, Machine Learning and Economics: 3 subfields to start](https://rebuildingmeaning.substack.com/p/lets-convene-researchers-and-makers)
+- [Social programming considered as a habitat for groups](https://nxhx.org/pdf/edelman-habitat.pdf)
 
 # Notes
 [Values, Preferences & Meaningful Choice](https://github.com/jxe/vpm/blob/master/vpm.pdf)
