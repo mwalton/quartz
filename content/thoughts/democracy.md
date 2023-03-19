@@ -14,4 +14,3 @@ tags:
 
 ### Deliberative Discourse
 - [Narwhal](https://www.thenarwhalproject.com/)
-- 

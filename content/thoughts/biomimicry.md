@@ -9,3 +9,5 @@ tags:
 - [Complex Intelligence: Natural, Artificial, and Collective](https://www.santafe.edu/research/themes/complex-intelligence-natural-artificial-and-collec)
 
 copy form, process or mimicry at an ecosystems level
+
+observation: in a software ecosystem, ai products will grow to exploit whatever niches we open for them

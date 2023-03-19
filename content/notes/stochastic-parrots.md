@@ -1,0 +1,90 @@
+---
+title: "Stochastic Parrots Day 🦜"
+date: 2023-03-19
+---
+![[notes/images/stochastic-parrots.png]]
+
+# Retrospective
+- Problem: presented as knowledge access systems; similar to issue w/ [meta galactica](https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/) for science
+- Language: pairs of form and meaning, language models only have access to form
+- Good at generating plausible sounding text; refined w/ preferences at producing non-offensive plausible sounding text
+- Philosophers asking: “are the models thinking?” etc. we don’t want conversation to go there
+- Harms and risks of language models to present humans; citation did not exist
+- Garden path sentences: “The horse raced past the barn fell” metaphor for larger and larger language models; misdirection of research effort
+- Language had a similar explosion to vision where it suddenly can solve large problems; “wait, we haven’t considered all the harms yet!”
+- Bad idea from POV of information literacy
+- [Situating search](https://dl.acm.org/doi/fullHtml/10.1145/3498366.3505816) Emily bender
+- Problem with LLMS is w/ how their marketed, used & built
+# Worker exploitation, data theft & centralization of power
+- Content moderation data labor (Kenyan data work)
+	- Companies deliberately hire most vulnerable; prevents workers from speaking out
+	- Moderation is a mental health concern
+- Milagros Miceli
+	- Ultimately, QA abides by what client wants
+	- Gig work is common; payment per task
+	- Data work & content moderation outsourced
+- Safiya Umoja Noble
+	- “Conversations like this are how we become better advocates for each other”
+	- We should be skeptical & careful
+	- **Researchers should be taking a page out of climate scientists books: “wish they had become activists, rather than just doing the research and handing it off to policy makers”**
+# AI Hype vs reality
+- Education (Belize Mont-Louis)
+	- How to use technology intentionally so students benefit and are not harmed
+	- Blocking or buying detector products not the right strategy, solution is better teaching
+	- Designing educational strategies that evaluate students on factors LLMs
+	- Rethink education that requires students to produce things that helps them learn what they need to
+	- Improving public understanding of bias and limitations
+- Startups (Asmelash Teka)
+	- GPT sucking up all the air in the room
+- Combatting hype (Mark Riedi)
+	- tradeoff between precise vs understandable language / metaphor
+	- LLMS as “backward looking” being applied to “forward looking” problems
+- Productivity improvement
+	- Utopian claims of AI companies
+	- Counter to the incentive structure of capitalism: Automating a task is not rewarded with additional leisure time; labor structure just shifts
+	- Shifting labor from creation to editing & oversight requires vigilance (humans are bad at this)
+- Education gaps for marginalized students
+	- Who is the creator vs consumer of the technology?
+	- Technology can often close gaps (increases access)
+	- Mark: AI tech people have a choice in which area they want to disrupt. Often pick on teachers as inefficient or replaceable. The real problem is not how scale up / disrupt, it’s a resource allocation problem.
+	- Teaching is not about information transfer, its about relationships and social development
+- Mark: nsf grant, promise first year we will write no code and just spend time interviewing and understanding teachers’ needs and use cases
+- **Refreshing to hear that the first step for an AI researcher is to get to know and understand the stakeholders the tool is for / going to affect**
+- Mark: **“You can do good science without writing code”**
+- How to cut through the hype?
+	- Stay focused on the things you care about
+	- Use tools yourself. Try to break them. Figuring out what they can’t do identifies its boundaries & limitations
+	- Counterpoint: every time you break and find a boundary, it provides the organization additional training data to extend the boundaries
+	- Keep in mind what is being published as news may be marketing
+	- Develop a strategy to identify good skeptical news outlets and journalists
+- Mark: last 4 months playing amateur sleuth “glass onion GPT edition” (relatable 😂😅)
+# What’s next? A call to action
+- EU AI act (sarah andrew)
+	- Small piece of legislation initially built under the assumption “AI” was just a new piece of tech; academics and NGOs jumped in and (successfully) expanded protections
+	- Human rights protections built into creation and use
+	- Use case specific legislation didn’t cover general purpose AI
+- Global south context (Nanjala Nyabola)
+	- Gap in capacity to develop AI strategy & policy
+	- Need international community to set baseline of conduct for disadvantaged nation states to protect themselves
+	- Most elaborate misinformation campaigns run in disadvantaged nations (often by the state)
+	- Unequal partnerships w/  lead to exploitative relationships
+	- **“Consequences of developing this technology will not be constrained by borders”**
+- Legal frameworks for Art and ownership (Steven Zapata)
+	- Class action lawsuits against AI companies scoping what the problems are
+	- Copyright infringement, fair use
+- Can the system be reimagined w/o exploitation?
+	- Incentive distorting problems: 1. We exist to consume 2. Accumulation is good
+	- The term “ethical” is slippery and nonspecific
+	- **Ground the definition in human rights**
+- Amplify the stories of the harms occuring now. policy makers tend to fall into the thinking that AI conversations are only about the future
+- Demystify the rulemaking process (call for journalists and tech blogs) make sure information travels
+- Break down academic silos; have conversations and build diverse transdisciplinary coalitions.
+- **Purpose is not to win, the purpose to transform**
+- Need to educate representatives
+- “You put out gpt4 and release it into the world, whatever bad things its capable of, its already capable of” red team examples:
+	- Demonstrate its capacity to deceive a human on task rabbit to solve captchas
+	- How can i make a deadly chemical with household ingredients?
+	- That’s just what they decided to test; and then put guardrails in place to prevent those specific behaviors
+- Willful ignorance of tech industry
+- “We’re either all going to make it, or none of us are going to make it”
+- Ask yourself: does the work that you’re doing help or harm?
