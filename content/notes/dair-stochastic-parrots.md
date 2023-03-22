@@ -1,5 +1,5 @@
 ---
-title: "Stochastic Parrots Day 🦜"
+title: "Stochastic Parrots Day 🦜 (DAIR)"
 date: 2023-03-19
 ---
 ![[notes/images/stochastic-parrots.png]]

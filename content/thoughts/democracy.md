@@ -5,12 +5,15 @@ tags:
 - seed
 ---
 
-# Tools
-### Voting
+# Deliberation tools
 - [Pol.is](https://pol.is/)
-- [Loomio](https://www.loomio.com/)
+- [decidim](https://decidim.org/)
+- [kialo](https://www.kialo.com/)
+- [Narwhal](https://www.thenarwhalproject.com/)
 - [CommunityRule](https://communityrule.info/)
 - [QuadraticVote](https://quadraticvote.co/)
+- [Loomio](https://www.loomio.com/)
 
-### Deliberative Discourse
-- [Narwhal](https://www.thenarwhalproject.com/)
+# Research topics
+- [Citizens' assemblies](https://en.wikipedia.org/wiki/Citizens%27_assembly)
+- [Sortitinos](https://en.wikipedia.org/wiki/Sortition)
