@@ -1,6 +1,8 @@
 ---
 title: "Anticipatory Innovation Governance"
 date: 2023-03-21
+tags:
+- governance
 ---
 [Observatory of Public Sector Innovation: Anticipatory Innovation Governance](https://oecd-opsi.org/wp-content/uploads/2020/11/AnticipatoryInnovationGovernance-Note-Nov2020.pdf?curius=2726)
 - reactive governance approach is ineffective at handling rapidly evolving crises

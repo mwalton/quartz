@@ -1,6 +1,9 @@
 ---
 title: "People + AI Research Symposium"
-date: 2023-03-22
+date: 2023-03-18
+tags:
+- ai
+- bias
 ---
 [Intentional ignorance is a value-laden choice](https://www.youtube.com/watch?v=TcE6_NPjvuo), Margaret Mitchell
 - choice of dataset and curation define what is important

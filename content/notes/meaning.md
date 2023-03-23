@@ -1,8 +1,10 @@
 ---
-title: "Meaning"
+title: "Rebuilding Society on Meaning"
 date: 2023-03-16
 tags:
-- seed
+- meaning
+- ai
+- alignment
 ---
 [Rebuilding Society on Meaning](https://www.rebuildingmeaning.org/)
 # Ideas

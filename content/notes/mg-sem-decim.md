@@ -1,6 +1,9 @@
 ---
 title: "💊 Decidim (metagov seminar)"
 date: 2023-03-22
+tags:
+- metagov
+- democracy
 ---
 # Background
 - [why digital tools for democracy need to be developed democratically](https://theloop.ecpr.eu/decidim-why-digital-tools-for-democracy-do-not-need-to-be-developed-democratically/)

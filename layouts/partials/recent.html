@@ -6,7 +6,8 @@
   is a collection of pages.
   https://gohugo.io/content-management/related/
   -->
-  {{$notes := .Site.RegularPages.ByLastmod.Reverse}}
+  {{$notes := where .Site.RegularPages "Section" "notes"}}
   {{partial "page-list.html" (first 3 $notes)}}
+  <a href="/notes">See {{sub (len $notes) 2}} more →</a>
 </div>
 
