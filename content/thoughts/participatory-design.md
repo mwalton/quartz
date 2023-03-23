@@ -8,7 +8,7 @@ Participatory design (PD) is the active involvement of users in the design of so
 
 Many efforts have been made to incorporate user feedback and preferences in ML models (eg recommenders, RLHF: reinforcement learning from human feedback) however the application of *democratic* participation *at scale* to the entirety of the design process *end-to-end*, to my knowledge, has not been accomplished. It ~~should~~ needs to be.
 
-# Participatory AI
+## Participatory AI
 - [[notes/PAIR]]
 - [[thoughts/democracy]]
 - [[thoughts/citizen-science]]

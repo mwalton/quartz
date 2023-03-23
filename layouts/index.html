@@ -9,7 +9,7 @@
       {{partial "header.html" .}}
       <img id="banner" src="/thoreaus_hut.svg" />
       <article>
-        {{partial "toc.html" .}} {{partial "textprocessing.html" . }} {{if
+        {{partial "toc.html" .}} {{partial "textprocessing.html" . }} {{partial "substack.html" . }} {{if
         $.Site.Data.config.enableRecentNotes}} {{partial "recent.html" . }} {{end}}
       </article>
 

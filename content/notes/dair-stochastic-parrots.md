@@ -8,7 +8,7 @@ tags:
 ---
 ![[notes/images/stochastic-parrots.png]]
 
-# Retrospective
+## Retrospective
 - Problem: presented as knowledge access systems; similar to issue w/ [meta galactica](https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/) for science
 - Language: pairs of form and meaning, language models only have access to form
 - Good at generating plausible sounding text; refined w/ preferences at producing non-offensive plausible sounding text
@@ -19,7 +19,7 @@ tags:
 - Bad idea from POV of information literacy
 - [Situating search](https://dl.acm.org/doi/fullHtml/10.1145/3498366.3505816) Emily bender
 - Problem with LLMS is w/ how their marketed, used & built
-# Worker exploitation, data theft & centralization of power
+## Worker exploitation, data theft & centralization of power
 - Content moderation data labor (Kenyan data work)
 	- Companies deliberately hire most vulnerable; prevents workers from speaking out
 	- Moderation is a mental health concern
@@ -31,7 +31,7 @@ tags:
 	- “Conversations like this are how we become better advocates for each other”
 	- We should be skeptical & careful
 	- **Researchers should be taking a page out of climate scientists books: “wish they had become activists, rather than just doing the research and handing it off to policy makers”**
-# AI Hype vs reality
+## AI Hype vs reality
 - Education (Belize Mont-Louis)
 	- How to use technology intentionally so students benefit and are not harmed
 	- Blocking or buying detector products not the right strategy, solution is better teaching
@@ -62,7 +62,7 @@ tags:
 	- Keep in mind what is being published as news may be marketing
 	- Develop a strategy to identify good skeptical news outlets and journalists
 - Mark: last 4 months playing amateur sleuth “glass onion GPT edition” (relatable 😂😅)
-# What’s next? A call to action
+## What’s next? A call to action
 - EU AI act (sarah andrew)
 	- Small piece of legislation initially built under the assumption “AI” was just a new piece of tech; academics and NGOs jumped in and (successfully) expanded protections
 	- Human rights protections built into creation and use

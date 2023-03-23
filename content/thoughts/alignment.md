@@ -7,13 +7,13 @@ tags:
 - alignment
 ---
 🚧 TODO 🚧
-# Central themes
+## Central themes
 - [[thoughts/participatory-design]]
 - [[thoughts/transparency]]
 - [[thoughts/biomimicry]]
 
-# Contestable AI
+## Contestable AI
 - [contestable.ai](https://contestable.ai/)
 
-# Meaning Alignment
+## Meaning Alignment
 - there are some interesting emerging ideas around [[notes/meaning|meaning]] aligned machine learning; I'm cautiously optimistic on this direction depending on what organizations ~~get involved~~ coopts the concept

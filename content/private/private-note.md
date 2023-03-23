@@ -2,7 +2,7 @@
 title: "Private Notes"
 ---
 
-# Collective Intelligence Ideas
+## Collective Intelligence Ideas
 1. bayesian model of agent delegation strategies in liquid democracies
 	- agents in a voting pool assess one another based on 1. alignment with own values 2. competence
 	- utility function associated with delegating to each prospective player

@@ -14,6 +14,6 @@ Contrary to commonly incentivised strategies of unfettered growth, development a
 
 Below are some thoughts on how we might evolve into better *stewards* of our shared virtual ecosystem.
 
-# The Dark Forest
+## The Dark Forest
 
 ![[thoughts/images/cozyweb-1800.jpg|700]]*Illustration from Maggie Appleton's [AI Dark Forest](https://maggieappleton.com/ai-dark-forest)*

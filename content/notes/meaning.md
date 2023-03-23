@@ -7,12 +7,12 @@ tags:
 - alignment
 ---
 [Rebuilding Society on Meaning](https://www.rebuildingmeaning.org/)
-# Ideas
+## Ideas
 - an interesting modeling approach could be combining an LM that converses with users encouraging them to introspect on their values combined w/ a theory of mind that the model constructs (and persists) of them between use sessions (this could also get quite dark)
 - i like the idea of trying to align recommenders w/ what users actually value, *however* I'm concerned about how the existing incentive structure (advertising / attention economy / surveillance capitalism) will incorporate research in this area. For instance: one solution could involve: gather more data to discern more intimate information about users; which requires additional surveillance and could further drive nefarious attempts to *manipulate* values (ala how maximizing ad revenue leads to feedback loops that manipulate preferences)
 - i’m intrigued by the idea of inferring an agent’s values via their attentional policy, and was inspired to some ideas about how this could be accomplished. i am, however, a bit concerned how this might be developed & deployed given our current incentive structure. as @joe describes, the profit model at present drives engagement via a shallow understanding of the user as consumer. given this paradigm, it would seem that attempting to infer a latent value system would require more complex modeling of the user and thus additional data. though well intentioned, might attempting to infer values under a profit motive incentivize deeper invasions of user’s privacy and commoditization of their data?
 
-# Notes
+## Notes
 [To those in Humane tech, Machine Learning and Economics: 3 subfields to start](https://rebuildingmeaning.substack.com/p/lets-convene-researchers-and-makers)
 - unified 'humane tech': great list of related orgs, many of whom I've been tracking / reaching out to as well
 - *people develop the virtues needed for the environments and relationships they find themselves in. So, what we want is not a set of virtues. It’s an algorithm: a way for a person or agent to recognize, conceptualize, and start living by a virtue that’s missing or needed in their environment*

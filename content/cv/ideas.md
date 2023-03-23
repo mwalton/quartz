@@ -4,7 +4,7 @@ date: 2023-03-19
 ---
 The compost heap of random scraps of ideas I've been thinking about. Some are new, some are  old; some are being actively thought about, others have been digesting for a long time. If you are actively working on research that sounds related and are interested in a discussion or possible collaboration, please get in touch!
 
-# Research
+## Research
 - Federated digital gardens
 	- what if digital gardens + mastadon / activitypub?
 - Democratic Reinforcement Learning:
@@ -13,12 +13,12 @@ The compost heap of random scraps of ideas I've been thinking about. Some are ne
 - theory of mind for language models
 - narrative priors
 - crowdfunded foundation models
-# AI Institutional Design Experiments
+## AI Institutional Design Experiments
 - Participatory AI Unconference
 	- **Objective**: experiments in democratic participatory design. All stages of the design process incorporate participation of diversity of stakeholders
 	- **Methods**: Short talks + poster session idea jam, deliberative discourse sessions, proposal construction, election & sub-teaming, hackathon
 	- **Deliverable(s)**: Publication + code for projects created + event metastudy incorporating participant survey, lessons learned, case study results
-# Applications
+## Applications
 (please feel free to steal; credit for inspiration is cool, collaboration is awesome. but ultimately I'd rather just see them be built and my time and attention is woefully finite 🥲)
 - moodring: community care mental health support
 	- emoji likert scale input

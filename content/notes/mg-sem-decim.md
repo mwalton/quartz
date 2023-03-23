@@ -5,13 +5,13 @@ tags:
 - metagov
 - democracy
 ---
-# Background
+## Background
 - [why digital tools for democracy need to be developed democratically](https://theloop.ecpr.eu/decidim-why-digital-tools-for-democracy-do-not-need-to-be-developed-democratically/)
 - [decidim.org](https://decidim.org/)
 - [decidim github](https://github.com/decidim/decidim)
 - [decidim social contract](https://docs.decidim.org/en/develop/understand/social-contract)
 
-# Meeting Notes
+## Meeting Notes
 - speaker: Arnau Montarde
 - free, open source democratic platform in Barcelona for citizen participation
 - context: why decidim?
