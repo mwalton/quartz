@@ -1,6 +1,6 @@
 ---
 title: "Liquid Democracy: Two Experiments on Delegation in Voting"
-date: 2023-03-22
+date: 2023-03-23
 ---
 
 [paper](https://www.nber.org/system/files/working_papers/w30794/w30794.pdf?curius=2726)
@@ -15,6 +15,10 @@ date: 2023-03-22
 
 ## theoretical results
 - equilibrium w/ positive delegation that dominates majority voting w/o delegation. however, over-delegation is costly; should only delegate when own precision close to random
+	- if $\pi = Pr ( \omega_1 ) = \frac{1}{2}$  for any $F$ and for any odd $N$ and $K$ there exists an equilibrium with delegation that strictly improves over $MV$
+- incorrectly choosing precision threshold at which to delegate incurs high cost; worse for LD vs MVA
+- blue: LD, green: MVA; X: delegation / abstention precision threshold, Y: $\mathbb{E}[U]$![[notes/images/ld.png]]
+- 
 
 ## experiments
 - experiment 1
@@ -27,7 +31,13 @@ date: 2023-03-22
 - experiment 2
 	- methodological variant using [Random Dot Kinematograms](https://www.youtube.com/watch?v=7OdCe95IiLw) trying to correct bias due to overly mathematical task presentation to subjects
 	
-## my critique
+## critique
+- LD proposes improvement over representative democracy under the assumption that not all proposals can tractably be taken to referendum (MV does not stale to large numbers of issues)
+- the authors demonstrate marginal improvement of LD over MV, then illustrate that humans tend to over-delegate under LD, undermining its theoretical equilibrium advantage
+- the authors conclude that a simpler solution (given common interests) is majority voting with abstention
+- the paper does not consider:
+	1. representational democracy (the failures of which LD is attempting to solve)
+	2. mis-aligned values / plurality of interests
 - common interests is generally a bad model for the types of problems democracies usefully solve:  referendum usually involves some contentious issue w/ (real or perceived) potential harm to some subset of the electorate
 - dynamics observed in common interest studies are unlikely to generalize
 - assumes one-dimensional assessment of representatives (precision)
