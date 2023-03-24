@@ -42,4 +42,4 @@ date: 2023-03-23
 - dynamics observed in common interest studies are unlikely to generalize
 - assumes one-dimensional assessment of representatives (precision)
 - improvement: vary degree of contention (mixed objectives by ratio)
-- reps should to be assessed on 2 axes: expertise *and* alignment (thoughts on addressing this in [[thoughts/democracy#idea-bayesian-delegation|bayesian delegation]])
+- reps should to be assessed on 2 axes: expertise *and* alignment (thoughts on addressing this in [[thoughts/democracy#idea-bellman-delegation|bellman delegation]])
