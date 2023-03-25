@@ -1,6 +1,8 @@
 ---
 title: "Liquid Democracy: Two Experiments on Delegation in Voting"
 date: 2023-03-23
+tags:
+- democracy
 ---
 
 [paper](https://www.nber.org/system/files/working_papers/w30794/w30794.pdf?curius=2726)

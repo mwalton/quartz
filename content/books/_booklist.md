@@ -7,6 +7,7 @@ date: 2023-03-06
 - [Paperpile](https://paperpile.com/shared/eYZgFI)
 
 # Recent Reads
+- [[all-watched-over|All Watched Over By Machines Of Loving Grace]], Richard Brautigan
 - [Emergent Strategy](https://www.akpress.org/emergentstrategy.html), Adrienne Maree Brown
 - [Lightly on the Land](https://www.mountaineers.org/books/books/lightly-on-the-land-the-sca-trail-building-and-maintenance-manual-2nd-edition), Student Conservation Association
 - [Animal Architects](https://www.publishersweekly.com/978-0-465-02782-8), Carol Grant Gould & James L. Gould

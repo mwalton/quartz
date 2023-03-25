@@ -2,7 +2,7 @@
 title: "Rebuilding Society on Meaning"
 date: 2023-03-16
 tags:
-- meaning
+- values
 - ai
 - alignment
 ---
