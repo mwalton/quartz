@@ -2,7 +2,6 @@
 title: "Russell-Einstein Manifesto"
 date: 2023-03-24
 ---
-```
 In the tragic situation which confronts humanity, we feel that scientists should assemble in conference to appraise the perils that have arisen as a result of the development of weapons of mass destruction, and to discuss a resolution in the spirit of the appended draft.
 
 We are speaking on this occasion, not as members of this or that nation, continent, or creed, but as human beings, members of the species Man, whose continued existence is in doubt. The world is full of conflicts; and, overshadowing all minor conflicts, the titanic struggle between Communism and anti-Communism.
@@ -38,7 +37,6 @@ Resolution:
 We invite this Congress, and through it the scientists of the world and the general public, to subscribe to the following resolution:
 
 “In view of the fact that in any future world war nuclear weapons will certainly be employed, and that such weapons threaten the continued existence of mankind, we urge the governments of the world to realize, and to acknowledge publicly, that their purpose cannot be furthered by a world war, and we urge them, consequently, to find peaceful means for the settlement of all matters of dispute between them.”
-```
 
 _Max Born_
 _Percy W. Bridgman_
