@@ -19,7 +19,6 @@ date: 2023-03-06
 - [Parable of the Sower](https://www.octaviabutler.com/parableseries), Octavia E. Butler
 
 ## 🐐 GOATs
-
 Books, papers & projects that fundamentally shaped my thinking or made me radically reconsider something I thought I understood fairly well
 - [[documents/all-watched-over|All Watched Over By Machines Of Loving Grace]]
 - [[documents/russell-einstein|Russell-Einstein Manifesto]]
@@ -27,9 +26,6 @@ Books, papers & projects that fundamentally shaped my thinking or made me radica
 - [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)
 - [A Unified Game-Theoretic Approach to Multiagent RL](https://proceedings.neurips.cc/paper/2017/hash/3323fe11e9595c09af38fe67567a9394-Abstract.html)
 - [On the Dangers of Stochastic Parrots 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922)
-
-## Top of the reading pile
-- [Seeing Like a State](https://yalebooks.yale.edu/book/9780300078152/seeing-like-a-state/), James C. Scott
 
 ## 積ん読
 Behold, my [antilibrary](https://nesslabs.com/antilibrary):
