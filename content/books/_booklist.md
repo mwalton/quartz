@@ -4,7 +4,6 @@ date: 2023-03-06
 ---
 ## Currently Reading
 - [Curius](https://curius.app/myke-walton)
-- [Paperpile](https://paperpile.com/shared/eYZgFI)
 
 ## Recent Reads
 - [Emergent Strategy](https://www.akpress.org/emergentstrategy.html), Adrienne Maree Brown
