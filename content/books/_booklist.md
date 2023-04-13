@@ -29,4 +29,3 @@ Books, papers & projects that fundamentally shaped my thinking or made me radica
 ## 積ん読
 Behold, my [antilibrary](https://nesslabs.com/antilibrary):
 - [Goodreads](https://www.goodreads.com/review/list/127050485-michael-walton?shelf=to-read)
-- [Paperpile](https://paperpile.com/shared/nBQ95P)
