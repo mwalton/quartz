@@ -1,6 +1,9 @@
 ---
 title: "Do Artifacts Have Politics?"
 date: 2023-04-14
+tags:
+- design
+- democracy
 ---
 - machines, structures & systems analyzed the ways in which they embody forms of power and authority
 - authoritarian technologies: system-centered, powerful, unstable
