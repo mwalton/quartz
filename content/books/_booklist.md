@@ -1,8 +1,11 @@
 ---
 title: "Reading List"
-date: 2023-03-06
+date: 2023-04-28
 ---
 ## Currently Reading
+| [![Holistic Indoor Gardening](https://cdn.shopify.com/s/files/1/0521/4987/8957/products/61483893-0d8d-4698-9803-84b151e81851_5ade5b55-65f2-490e-b5ad-6cd015d8c09f_1024x1024@2x.png)](https://earthshipstore.com/products/holistic-indoor-gardening) | [![Active Inference](https://mit-press-us.imgix.net/covers/9780262045353.jpg?auto=format&w=298&dpr=2&q=20)](https://mitpress.mit.edu/9780262045353/active-inference/) |
+|:-:|:-:|
+
 - [Curius](https://curius.app/myke-walton)
 
 ## Recent Reads
@@ -21,7 +24,6 @@ date: 2023-03-06
 Books, papers & projects that fundamentally shaped my thinking or made me radically reconsider something I thought I understood fairly well
 - [[documents/all-watched-over|All Watched Over By Machines Of Loving Grace]]
 - [[documents/russell-einstein|Russell-Einstein Manifesto]]
-- [Designs for the Pluriverse](https://www.dukeupress.edu/designs-for-the-pluriverse)
 - [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)
 - [A Unified Game-Theoretic Approach to Multiagent RL](https://proceedings.neurips.cc/paper/2017/hash/3323fe11e9595c09af38fe67567a9394-Abstract.html)
 - [On the Dangers of Stochastic Parrots 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922)
