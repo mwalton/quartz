@@ -10,6 +10,6 @@ Participatory design (PD) is the active involvement of users in the design of so
 - [[notes/PAIR]]
 - [[thoughts/democracy]]
 - [[thoughts/citizen-science]]
-- community building [[notes/microsolidarity]], [[books/emergent-strategy]]
+- community building [[notes/microsolidarity]]
 
 
