@@ -2,11 +2,15 @@
 title: "Reading List"
 date: 2023-04-28
 ---
+
 ## Currently Reading
+
+### Books
 | [![Holistic Indoor Gardening](https://cdn.shopify.com/s/files/1/0521/4987/8957/products/61483893-0d8d-4698-9803-84b151e81851_5ade5b55-65f2-490e-b5ad-6cd015d8c09f_1024x1024@2x.png)](https://earthshipstore.com/products/holistic-indoor-gardening) | [![Active Inference](https://mit-press-us.imgix.net/covers/9780262045353.jpg?auto=format&w=298&dpr=2&q=20)](https://mitpress.mit.edu/9780262045353/active-inference/) |
 |:-:|:-:|
 
-- [Curius](https://curius.app/myke-walton)
+### Papers
+find me on [Curius](https://curius.app/myke-walton) 
 
 ## Recent Reads
 - [Emergent Strategy](https://www.akpress.org/emergentstrategy.html), Adrienne Maree Brown
