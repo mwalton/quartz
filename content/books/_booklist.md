@@ -25,7 +25,7 @@ find me on [Curius](https://curius.app/myke-walton)
 - [Parable of the Sower](https://www.octaviabutler.com/parableseries), Octavia E. Butler
 
 ## 🐐 GOATs
-Books, papers & projects that fundamentally shaped my thinking or made me radically reconsider something I thought I understood fairly well
+Books, papers & projects that deeply inspired me, fundamentally shaped my thinking or made me radically reconsider something I thought I understood
 - [[documents/all-watched-over|All Watched Over By Machines Of Loving Grace]]
 - [[documents/russell-einstein|Russell-Einstein Manifesto]]
 - [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html)
