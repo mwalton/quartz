@@ -9,4 +9,4 @@ title: "Private Notes"
 	- agents either 1. vote according to their own value fn 2. delegate given by competence-weighted value divergence
 1. formal definitions of a bellman-esque objective embedded within a model of the entity or organization engaged in its development.
 2. [[cv/pubs/dac-rl|distributed consensus algorithms]] interoperable w/ human input. (decentralizing a meta policy by agents voting according to value function)
-3. Deliberative democratic / [[thoughts/participatory-design|participatory design]] mechanisms (reading a lot of [Aviv Ovadya's](https://aviv.me/) recent work)
+3. Deliberative democratic / [[thoughts/participatory-ai|participatory design]] mechanisms (reading a lot of [Aviv Ovadya's](https://aviv.me/) recent work)

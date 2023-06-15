@@ -17,13 +17,14 @@ search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
-description: Playfully musing on the study and stewardship of intelligent systems (natural, artificial, collective & complex)
+description: Musing on the study and stewardship of intelligent systems (natural, artificial, collective & complex)
 page_title: "Mike Walton"
 links:
   - link_name: Scholar
     link: https://scholar.google.com/citations?user=TTEHCqUAAAAJ
   - link_name: GitHub
     link: https://github.com/mwalton
+  - link_name: Hugging Face 🤗
+    link: https://huggingface.co/mwalton
   - link_name: Bluesky 🦋
     link: https://bsky.app/profile/mwalton.bsky.social
-

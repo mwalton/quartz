@@ -1,18 +1,19 @@
 ---
 title: "Reading List"
-date: 2023-04-28
+date: 2023-06-14
 ---
 
 ## Currently Reading
 
 ### Books
-| [![Holistic Indoor Gardening](https://cdn.shopify.com/s/files/1/0521/4987/8957/products/61483893-0d8d-4698-9803-84b151e81851_5ade5b55-65f2-490e-b5ad-6cd015d8c09f_1024x1024@2x.png)](https://earthshipstore.com/products/holistic-indoor-gardening) | [![Active Inference](https://mit-press-us.imgix.net/covers/9780262045353.jpg?auto=format&w=298&dpr=2&q=20)](https://mitpress.mit.edu/9780262045353/active-inference/) |
+| [![Wilding](https://images.squarespace-cdn.com/content/v1/59ca669de45a7c7797ba6474/1611148769953-REHOYNQTHHZTSKZT5G9Z/Wilding+Book+Cover+Sun+Times.JPG?format=750w)](https://www.isabellatree.com/books) | [![Active Inference](https://mit-press-us.imgix.net/covers/9780262045353.jpg?auto=format&w=298&dpr=2&q=20)](https://mitpress.mit.edu/9780262045353/active-inference/) |
 |:-:|:-:|
 
 ### Papers
 find me on [Curius](https://curius.app/myke-walton) 
 
 ## Recent Reads
+- [Holistic Indoor Gardening](https://earthshipstore.com/products/holistic-indoor-gardening), Daniel Dynan
 - [Emergent Strategy](https://www.akpress.org/emergentstrategy.html), Adrienne Maree Brown
 - [Lightly on the Land](https://www.mountaineers.org/books/books/lightly-on-the-land-the-sca-trail-building-and-maintenance-manual-2nd-edition), Student Conservation Association
 - [Animal Architects](https://www.publishersweekly.com/978-0-465-02782-8), Carol Grant Gould & James L. Gould

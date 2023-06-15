@@ -8,7 +8,7 @@ tags:
 ---
 🚧 TODO 🚧
 ## Central themes
-- [[thoughts/participatory-design]]
+- [[thoughts/participatory-ai]]
 - [[thoughts/transparency]]
 - [[thoughts/biomimicry]]
 

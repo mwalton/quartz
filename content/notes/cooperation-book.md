@@ -5,8 +5,9 @@ tags:
 - cooperation
 - political economy
 ---
-["A Theory of Cooperation": Bernard Harcourt in conversation with Amna Akbar](youtube.com/watch?v=hTfkAASCDhs)
-[Cooperation: A Political, Economic, and Social Theory](http://cup.columbia.edu/book/cooperation/9780231209540)
+["A Theory of Cooperation": Bernard Harcourt in conversation with Amna Akbar](https://www.youtube.com/watch?v=hTfkAASCDhs&ab_channel=ThePhilosopher)
+
+Discussion on [Cooperation: A Political, Economic, and Social Theory](http://cup.columbia.edu/book/cooperation/9780231209540)
 
 - Rural Electric Cooperatives
 	- [NRECA](https://www.electric.coop/)
