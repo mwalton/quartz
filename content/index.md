@@ -8,9 +8,9 @@ transclude: "false"
 
 Welcome traveler! You've wandered into my humble [[thoughts/digital-forests|forest of ideas]]!
 
-I wear a lot of hats in my current role as an emerging technologies fellow with [xD](https://www.xd.gov/) @ [The US Census Bureau](https://www.census.gov/en.html). Notably, my team is experimenting with improving the user experience of [Model Cards](https://www.xd.gov/blog/creating-a-client-side-model-card-generator/) for government use cases and developing new methods for algorithmic auditing using privacy enhancing technologies.
+I wear few different hats in my current role as an emerging technologies fellow with [xD](https://www.xd.gov/) @ [The US Census Bureau](https://www.census.gov/en.html). Notably, my team is working operationalizing responsible AI, experimenting with improving the user experience of [Model Cards](https://www.xd.gov/blog/creating-a-client-side-model-card-generator/) for government use cases and developing new methods for algorithmic auditing using privacy enhancing technologies.
 
-I'm also creatively exploring parallels between intelligent behavior in natural and artificial systems through short personal essays on [Autopoiesis](https://autopoiesis.substack.com/). My prior work has focused on related topics in multi-agent reinforcement learning and game theory.
+Partially motivated by my prior work in multi-agent systems, reinforcement learning & game theory I'm also creatively exploring parallels between intelligent behavior in natural and artificial systems through short personal essays with [Autopoiesis](https://autopoiesis.substack.com/).
  ![[quotes/52d98c#^52d98c]]
 Here are some paths you might follow to get to know me, my research and interests:
 
