@@ -8,7 +8,7 @@ transclude: "false"
 
 Welcome traveler! You've wandered into my humble [[thoughts/digital-forests|forest of ideas]]! 
 
-I am deeply committed to research and imagining of emerging technologies that serve the public good. Integral to this work, is a vision for AI where access, use and governance is safe, sustainable and equitable. I doggedly believe a better collective future is possible.
+I am deeply committed to researching and imagining emerging technologies that serve the public good. Integral to this work is a vision for AI where access, use, and governance are safe, sustainable, and equitable. I doggedly believe a better collective future is possible.
 
 In my current role as a fellow with [xD](https://www.xd.gov/) @ [The US Census Bureau](https://www.census.gov/en.html) our team is working on frameworks for responsible AI, experimenting with improving the user experience of [Model Cards](https://bias.xd.gov/) for government use cases and developing novel methods for algorithmic auditing using privacy enhancing technologies.
 
