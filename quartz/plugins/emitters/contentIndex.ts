@@ -1,11 +1,11 @@
 import { Root } from "hast"
+import { toHtml } from "hast-util-to-html"
+import path from "path"
 import { GlobalConfiguration } from "../../cfg"
 import { getDate } from "../../components/Date"
 import { escapeHTML } from "../../util/escape"
 import { FilePath, FullSlug, SimpleSlug, simplifySlug } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
-import { toHtml } from "hast-util-to-html"
-import path from "path"
 
 export type ContentIndex = Map<FullSlug, ContentDetails>
 export type ContentDetails = {
