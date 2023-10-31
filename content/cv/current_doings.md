@@ -2,12 +2,9 @@
 title: "Current Doings"
 date: 2023-03-06
 ---
-## Research Interests
-- [[thoughts/ai-democracy|Democratic]] [[thoughts/ai-governance|governance]] of AI
-- [[thoughts/participatory-ai|Participatory methods]], co-design & public engagement
-- [[thoughts/ai-climate|Environmental, climate & conservational]] applications
+- **[xD](https://www.xd.gov/)** : Emerging Technologies Fellow | Operationalizing responsible AI @ [US Census Bureau](https://www.census.gov/en.html)
+- **[Autopoiesis](https://autopoiesis.substack.com/)**: Musing on natural, artificial and collective intelligence
+- **[Washington Trails Association](https://www.wta.org/)**: Maintaining Washington state trails and outdoor public spaces
+- **[Good Foundation Forming](https://www.goodfoundationforming.org/)**: Mentoring Mongolian high-school & early university STEM students
 
-
-## Volunteering
-- **[Good Foundation Forming](https://www.goodfoundationforming.org/)**: mentorship and career counseling empowering Mongolian high-school & early university students interested in STEM
-- **[Washington Trails Association](https://www.wta.org/)**: maintenance on Washington state trails and outdoor public spaces
+## Previous Positions
