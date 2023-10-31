@@ -1,11 +1,11 @@
+import { Element, Root } from "hast"
 import { render } from "preact-render-to-string"
-import { QuartzComponent, QuartzComponentProps } from "./types"
-import HeaderConstructor from "./Header"
-import BodyConstructor from "./Body"
-import { JSResourceToScriptElement, StaticResources } from "../util/resources"
-import { FullSlug, RelativeURL, joinSegments } from "../util/path"
 import { visit } from "unist-util-visit"
-import { Root, Element } from "hast"
+import { FullSlug, RelativeURL, joinSegments } from "../util/path"
+import { JSResourceToScriptElement, StaticResources } from "../util/resources"
+import BodyConstructor from "./Body"
+import HeaderConstructor from "./Header"
+import { QuartzComponent, QuartzComponentProps } from "./types"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -132,7 +132,7 @@ export function renderPage(
                   ))}
                 </Header>
                 <div class="popover-hint">
-                  {beforeBody.map((BodyComponent) => (
+                  {slug !== "index" && beforeBody.map((BodyComponent) => (
                     <BodyComponent {...componentData} />
                   ))}
                 </div>
